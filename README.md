@@ -1,5 +1,5 @@
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VittorioGarretto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VittorioGarretto&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VittorioGarretto&layout=compact&theme=dark&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)
 
